@@ -19,3 +19,18 @@ GoMikeDesigns is a website optimisation project completed as part of the OpenCla
 * Optimised font and image loading
 * Added relevant metadata and keywords for SEO
 * Improved the website's overall performance and maintainability
+
+## Technologies and Tools
+
+- HTML5
+- CSS3
+- JavaScript
+- Git and GitHub
+- Chrome DevTools
+- W3C HTML and CSS Validators
+- WebP image optimisation
+- Responsive design techniques
+
+  ## What I Learned
+
+This project helped me understand how performance, accessibility and SEO affect the quality of a website. I gained practical experience optimising images and code, fixing HTML and CSS validation errors, using accessibility attributes and testing improvements with browser development tools.
